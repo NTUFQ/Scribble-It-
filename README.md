@@ -14,6 +14,8 @@ Scribble It! is an iOS Drawing Game for elderly.
 - Step 2: Build with Xcode
  - Go to the folder
  - Open the .xcodeproj in Xcode
+ - Double-click the project at the left sidebar
+ - Set General -> Signing -> Team in the center panel (You may add your apple account.)
  - Connect your iDevice to your Mac
  - Choose your device at the top left corner
  - Click the play button
