@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{B98365CE-9B22-1242-7A3D-659510E36E30}") = "ScribbleIt!", "Assembly-CSharp.csproj", "{4F89CB43-EB12-2705-87F7-0AEFAD0BA068}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F89CB43-EB12-2705-87F7-0AEFAD0BA068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F89CB43-EB12-2705-87F7-0AEFAD0BA068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F89CB43-EB12-2705-87F7-0AEFAD0BA068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F89CB43-EB12-2705-87F7-0AEFAD0BA068}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
